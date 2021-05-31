@@ -1,12 +1,12 @@
 # 유사도 검사를 통한 문서 추천 프로그램 개발
 
 ## 0. 사용한 개념 및 환경
-Python
-numpy, pandas
-sklearn
-selenium
-konlpy
-cosine similarity
+Python <br>
+numpy, pandas <br>
+sklearn <br>
+selenium <br>
+konlpy <br>
+cosine similarity <br>
 
 ## 1. 뉴스 크롤링
 
