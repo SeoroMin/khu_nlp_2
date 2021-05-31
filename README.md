@@ -14,6 +14,8 @@ cosine similarity
 
 ![image](https://user-images.githubusercontent.com/57586314/120138757-1b690780-c212-11eb-8257-15c4f384a49d.png)
 
+네이버 중앙일보 뉴스 약 800개 크롤링 - 제목과 내용
+
 
 ## 2. 제목에 해당하는 문서 출력
 
